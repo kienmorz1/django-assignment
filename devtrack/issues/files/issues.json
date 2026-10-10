@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Login button not working",
+        "description": "users facing issue while clicking on loging button",
+        "priority": "critical",
+        "reporter_id": "4",
+        "status": "open",
+        "created_at": "2026-10-09 04:15:09.637542"
+    },
+    {
+        "id": 2,
+        "title": "Sign up not working",
+        "description": "Mobile users not able to register new account",
+        "priority": "critical",
+        "reporter_id": "2",
+        "status": "open",
+        "created_at": "2026-10-10 04:18:20.371672"
+    }
+]

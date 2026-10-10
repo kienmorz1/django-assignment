@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Rakesh",
+        "email": "rakesh@idontknow.com",
+        "team": "backend"
+    },
+    {
+        "id": 2,
+        "name": "Anisha",
+        "email": "anish@idontknow.com",
+        "team": "devops"
+    },
+    {
+        "id": 3,
+        "name": "justing",
+        "email": "justin@idontknow.com",
+        "team": "frontend"
+    },
+    {
+        "id": 4,
+        "name": "sanju",
+        "email": "svishwanath@idontknow.com",
+        "team": "finance"
+    },
+    {
+        "id": 5,
+        "name": "Salman",
+        "email": "salman@idontknow.com",
+        "team": "HR"
+    }
+]
